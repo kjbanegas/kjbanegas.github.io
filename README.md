@@ -7,5 +7,6 @@ This repository will hold assignments
 # About Me
 ## I like to work out, play video games, and spend time with family and friends. I also enjoy watching TV shows and movies.
 ## Websites I recommend
+
 * [Disney Plus](www.disneyplus.com)I like Disney Plus because it is one of the streaming platforms I use to watch TV shows and movies. 
 * [Best Buy](www.disneyplus.com)I shop at Best Buy for gaming needs from newly released games to graphic cards for my PC. 
